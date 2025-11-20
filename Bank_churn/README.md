@@ -69,4 +69,4 @@ The client has access to a dataset with anonymized user data.
 ## Materials
 
 * [Dashboard](https://public.tableau.com/app/profile/natalia.zvereva/viz/_16938672598280/sheet1)
-* [Presentation](https://disk.yandex.ru/i/cdAKRbsBTtKixw)
+* [Presentation](https://docs.google.com/presentation/d/1W4GetguhFQclC6S0341AQju2JuNPbk0lrixbSwGb2Ps/edit?usp=sharing)
