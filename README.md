@@ -7,7 +7,6 @@ Independent analytics projects focused on business insights, customer behavior a
 | Project | Domain | Tools | Key Output |
 |---|---|---|---|
 | [Bank Customer Churn](./Bank_churn/) | Financial Services | Python, pandas, scipy, Tableau | 3 churn-risk segments → retention targeting |
-| [A/B Test Analysis](./AB_test/) | Product Analytics | Python, statistics | Statistical significance evaluation |
 
 ## Skills Demonstrated
 
